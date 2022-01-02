@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print(originArray)
         FoundationTest.testRun("hello")
         FoundationTest.testRun(title: "hello Word !")
+        // test
     }
 
 }
