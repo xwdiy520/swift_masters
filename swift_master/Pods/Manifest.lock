@@ -1,0 +1,16 @@
+PODS:
+  - Log4swift (1.2.0)
+
+DEPENDENCIES:
+  - Log4swift (= 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Log4swift
+
+SPEC CHECKSUMS:
+  Log4swift: ee01d1eacc515d65b6facbe30b8e65b853140aa1
+
+PODFILE CHECKSUM: 450d77b0622b566608f812f39c6b92ecf5a5b15d
+
+COCOAPODS: 1.11.2
