@@ -13,6 +13,9 @@ target 'swift_master' do
   pod 'MonkeyKing', '~> 2.2.1'
   pod 'SwiftyJSON', '~> 5.0.1'
   pod 'ObjectMapper', '~> 4.2.0'
+# 无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore
+  pod 'Dollar', '~> 9.0.0'
+  pod 'SwiftString', '~> 0.5'
 
   target 'swift_masterTests' do
     inherit! :search_paths

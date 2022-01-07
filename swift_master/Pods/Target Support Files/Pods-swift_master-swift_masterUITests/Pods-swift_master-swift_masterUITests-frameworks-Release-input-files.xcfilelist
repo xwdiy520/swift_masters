@@ -1,2 +1,10 @@
 ${PODS_ROOT}/Target Support Files/Pods-swift_master-swift_masterUITests/Pods-swift_master-swift_masterUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Dollar/Dollar.framework
 ${BUILT_PRODUCTS_DIR}/Log4swift/Log4swift.framework
+${BUILT_PRODUCTS_DIR}/MonkeyKing/MonkeyKing.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftString/SwiftString.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

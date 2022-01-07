@@ -1,16 +1,50 @@
 PODS:
+  - Alamofire (5.5.0)
+  - Dollar (9.0.0)
   - Log4swift (1.2.0)
+  - MonkeyKing (2.2.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (4.2.0)
+  - RxSwift (6.2.0)
+  - SwiftString (0.5)
+  - SwiftyJSON (5.0.1)
 
 DEPENDENCIES:
+  - Dollar (~> 9.0.0)
   - Log4swift (= 1.2.0)
+  - MonkeyKing (~> 2.2.1)
+  - Moya (~> 15.0.0)
+  - ObjectMapper (~> 4.2.0)
+  - RxSwift (~> 6.2.0)
+  - SwiftString (~> 0.5)
+  - SwiftyJSON (~> 5.0.1)
 
 SPEC REPOS:
   trunk:
+    - Alamofire
+    - Dollar
     - Log4swift
+    - MonkeyKing
+    - Moya
+    - ObjectMapper
+    - RxSwift
+    - SwiftString
+    - SwiftyJSON
 
 SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Dollar: 2fc9bdeeb2d3ae1f251461803240d5c93829ee0c
   Log4swift: ee01d1eacc515d65b6facbe30b8e65b853140aa1
+  MonkeyKing: 196838a3b4c97e95915f3e7046fb2d6044f06101
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SwiftString: ec9c31c55b2aa147a1154f5f5f8483dc71e3165f
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
 
-PODFILE CHECKSUM: 450d77b0622b566608f812f39c6b92ecf5a5b15d
+PODFILE CHECKSUM: be148e7d998191623454f435b8abd50a2d8ee292
 
 COCOAPODS: 1.11.2
